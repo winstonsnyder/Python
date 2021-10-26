@@ -1,1 +1,5 @@
-
+Windows
+-------
+[Win]+[r] | Run Dialog
+Powershell | Enter at run dialog
+ps>python --version | Enter at powershell command line
