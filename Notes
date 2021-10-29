@@ -11,6 +11,7 @@ Editing Python with VSCode
 https://code.visualstudio.com/docs/python/editing
 
 Linting in Python
+Linting highlights syntactical and stylistic problems in your Python source code
 https://code.visualstudio.com/docs/python/linting
 
 Run partial file
