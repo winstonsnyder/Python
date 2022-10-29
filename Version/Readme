@@ -1,0 +1,5 @@
+Anaconda
+ps:conda list anaconda$
+
+python
+ps: python --version
