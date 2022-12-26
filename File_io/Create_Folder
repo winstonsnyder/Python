@@ -1,0 +1,17 @@
+# Python program to expalin os.mkdir() method
+
+# importing os module
+import os
+
+#Directory
+directory = "C:/my_py_scripts/"
+
+# mode
+mode = 0o666
+
+# Create the directory
+if os.path.exists(directory):
+    print('folder already exists')
+else:
+    os.mkdir(directory, mode)
+    print("Directory '% s' created" % directory)
